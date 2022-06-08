@@ -34,7 +34,7 @@ This is Part from course Udemy about React
 
 ### Prerequisites
 
-This is the comment you need to use for install them and run.
+This is the comment you need to use for install and run.
 
   ```sh
   npm install
